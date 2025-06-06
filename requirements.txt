@@ -1,0 +1,8 @@
+numpy
+textblob
+streamlit
+pandas
+chromadb
+groq
+python-dotenv
+joblib
