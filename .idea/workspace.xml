@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="748d4544-adfe-4cc6-be23-babab1eb78b6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trained_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/trained_model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trained_scaler.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/trained_scaler.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vector_db/chroma.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/vector_db/chroma.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.train_model.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Course/Brainworks/Python_Practice/Projects/Final_project/Edumentor_classifier",
-    "settings.editor.selected.configurable": "settings.qodana"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.train_model.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Course/Brainworks/Python_Practice/Projects/Final_project/Edumentor_classifier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
