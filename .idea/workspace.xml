@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="748d4544-adfe-4cc6-be23-babab1eb78b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_loader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edu_mentor_dataset_final(3000).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edu_mentor_dataset_final(5000).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/llm_summarizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ml_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regression_model.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regression_model1.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scaler.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_scaler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trained_model.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trained_scaler.pkl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vector_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vector_db/a1187891-244f-4e78-9393-3c474958ae1b/data_level0.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vector_db/a1187891-244f-4e78-9393-3c474958ae1b/header.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vector_db/a1187891-244f-4e78-9393-3c474958ae1b/index_metadata.pickle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vector_db/a1187891-244f-4e78-9393-3c474958ae1b/length.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vector_db/a1187891-244f-4e78-9393-3c474958ae1b/link_lists.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vector_db/chroma.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +38,7 @@
   "keyToString": {
     "Python.train_model.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Course/Brainworks/Python_Practice/Projects/Final_project/Edumentor_classifier",
     "settings.editor.selected.configurable": "settings.qodana"
   }
